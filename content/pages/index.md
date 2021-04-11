@@ -5,10 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Zahid'
-    content: |
-      A shutterbug. A tech enthusiast.
-
-      Love to learn new technologies. Interested to work in Deep Learning.
+    content: >
+      A shutterbug. A tech enthusiast. Love to learn new technologies.
+      Interested to work in Deep Learning.
   - section_id: about
     type: section_content
     title: About
